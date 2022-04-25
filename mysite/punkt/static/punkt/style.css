@@ -1,0 +1,27 @@
+li a {
+    color: green;
+}
+
+/*body {
+    background:  url("images/background.gif") round no-repeat; 
+    
+}
+*/
+ol {
+    padding-left: 1000px;
+}
+
+.foo {
+    position: absolute;
+    top: 450px;
+    left: 530px;
+    color: red;
+}
+
+.foo_1{
+    position: absolute;
+    left: 525px;
+    top: 500px;
+    color: red;
+}
+
